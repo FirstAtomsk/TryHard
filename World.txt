@@ -1,2 +1,3 @@
-print "hello, faggots!"
+﻿print "hello, faggots!"
 print "сам такой"
+nvjhgvjv
