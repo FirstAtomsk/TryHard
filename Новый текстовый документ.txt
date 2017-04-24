@@ -2,3 +2,4 @@
 Новое новое
 print "fuf"
 print "hallo" 
+print "skuka"
