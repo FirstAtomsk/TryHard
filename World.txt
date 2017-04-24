@@ -1,1 +1,2 @@
 print "hello, faggots!"
+print "сам такой"
